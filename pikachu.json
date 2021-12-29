@@ -1,0 +1,32 @@
+{
+  "name": "NTKTIMG - DevNet",
+  "symbol": "DIV",
+  "description": "thank the creators",
+  "seller_fee_basis_points": 700, 
+  "image": "https://raw.githubusercontent.com/vaddisrinivas/pokemons/main/red_pikachu.png", 
+  "attributes": [
+    {
+      "trait_type": "cypher",
+      "value": "Pkacu"
+    }
+  ],
+  "collection": {
+    "name": "The New Castle",
+    "family": "SolCypher"
+  },
+  "properties": {
+    "files": [ 
+      {
+        "uri": "https://raw.githubusercontent.com/vaddisrinivas/pokemons/main/red_pikachu.png",
+        "type": "image/jpg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FMo6sVvu8opoSBgQj7cb6W84FGz6VGjeEkbGWsUfYbf8",
+        "share": 100
+      }
+    ]
+  }
+}
